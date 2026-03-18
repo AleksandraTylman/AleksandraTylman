@@ -19,11 +19,11 @@ A project using Python libraries to analyze and visualize data.
 An analysis of structured data using Excel functions, charts, and pivot tables.
 
 ### Data Science Salary - Excel Report  
-[Repository](https://github.com/AleksandraTylman/Data-Science-Salary-Excel-Report) 
+[Repository](https://github.com/AleksandraTylman/Data-Science-Salary-Excel-Report)  
 Analysis of salary data with automated insights extraction.
 
 ### Titanic Survival Analysis - R Project 
-[Repository](https://github.com/AleksandraTylman/Titanic-Survival-Analysis-R-Project)
+[Repository](https://github.com/AleksandraTylman/Titanic-Survival-Analysis-R-Project)  
 Descriptive analysis in R using R Markdown and knitr.
 
 ## Skills & Tools
