@@ -26,6 +26,10 @@ Analysis of salary data with automated insights extraction.
 [Repository](https://github.com/AleksandraTylman/Titanic-Survival-Analysis-R-Project)  
 Descriptive analysis in R using R Markdown and knitr.
 
+### Telco-Customer-Churn - Data Analysis in R
+[Repository](https://github.com/Justa555/Telco-Customer-Churn-Data-Analysis)  
+Exploratory churn analysis in R using multiple libraries for data processing, visualization, and statistical insights.
+
 ## Skills & Tools
 
 - **Languages**: Python, SQL, R  
