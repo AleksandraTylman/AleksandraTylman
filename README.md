@@ -10,6 +10,10 @@ I'm currently focused on my studies, which help me develop new skills and improv
 
 Here are some of my projects related to data analysis and university work:
 
+### Weather Travel Planner Dashboard - Power BI Project
+[Repository](https://github.com/AleksandraTylman/Weather-Travel-Planner-Dashboard-Power-BI-Project)
+An interactive Power BI dashboard that helps users identify travel destinations based on preferred weather conditions using dynamic filters, DAX calculations, interactive reporting and business-oriented data visualisation.
+
 ### Wroclaw Housing Analysis - Python Data Project  
 [Repository](https://github.com/AleksandraTylman/Wroclaw-Housing-Analysis--Python-Data-Project)  
 A project using Python libraries to analyze and visualize data.
